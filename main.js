@@ -40,3 +40,11 @@ print('printDiv', iAmThirsty(100));
     //over 65 take a nap
 
     //bonus pring to dom
+
+    // console.log (1 === '1'); //false <--- use === 99% of the time
+    // // console.log(1 == '1'); //true
+
+    // console.log(1 !== '2');
+
+
+    console.log('cats'.length);
